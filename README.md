@@ -4,4 +4,4 @@
 
 ### Music
 
-Bach Composer (http://coconet.glitch.me)
+[Bach Composer](http://coconet.glitch.me)
