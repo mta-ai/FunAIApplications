@@ -1,4 +1,4 @@
-# FunAIApplications
+# Fun AI Applications
 
 ## Art
 
